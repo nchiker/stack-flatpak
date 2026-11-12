@@ -1,0 +1,10 @@
+[Flatpak Ref]
+Title=Stack
+Name=org.stackdocs.desktop
+Branch=stable
+Url=https://nchiker.github.io/stack-flatpak/repo/
+SuggestRemoteName=stack
+Homepage=https://github.com/nchiker/stack
+IsRuntime=false
+GPGKey=mDMEavURyBYJKwYBBAHaRw8BAQdAdNbJSYWu+qptL2ZeG5fGo3WAA0YFdhHLJUxFKO/fARG0SVN0YWNrIEZsYXRwYWsgcmVwb3NpdG9yeSBzaWduaW5nIDxzdGFjay1mbGF0cGFrQHVzZXJzLm5vcmVwbHkuZ2l0aHViLmNvbT6IkwQTFgoAOxYhBP8ezWrdV0iSZpk9b+vFHq3zD11YBQJq9RHIAhsDBQsJCAcCAiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEOvFHq3zD11YyC4A/0fcsNJ0VUSGk7M1OQ1fVUU1q14nehU8K/XSzUEQQIysAQD5NDGyvRQtbACJxGqEwuqu+BHfPPdHo8H7hqC0kCRUBw==
+RuntimeRepo=https://dl.flathub.org/repo/flathub.flatpakrepo
