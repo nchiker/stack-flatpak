@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Sun, 22 Nov 2026 22:15:29 +0000
+Label: Stack
+Origin: Stack
+Suite: stable
+MD5Sum:
+ 02eeaae5d8a06f9044ef693f82eb41f0             2072 main/binary-amd64/Packages
+ 377585d18b36b5d45da4801ba33012d1             1145 main/binary-amd64/Packages.gz
+SHA1:
+ b52fe20bd6a1d19b2a1364350fe6e300bea22afc             2072 main/binary-amd64/Packages
+ 7de5b5599049476b10788e99c86fa7cdcf025ce9             1145 main/binary-amd64/Packages.gz
+SHA256:
+ 40cc8a9811c74e72392c9698d909472c4289da3522bb0ff6ccb83bcc880b9db4             2072 main/binary-amd64/Packages
+ b436dc99259b8550cf910fd74236a930d332f0327cebd3d6d41632fb99500368             1145 main/binary-amd64/Packages.gz
+SHA512:
+ 810ab0cff15414b1c601a3068864c7e5445e334989d48fc9c2a1fecc9e971922e4e7cd838be50ea8fddbb75569e1b571df4f765b8f7167af11ba18b3035b4366             2072 main/binary-amd64/Packages
+ f13b1ac0b1979db9457718212a14a6f2f5390a37ac740f5df3d777ecfa2b5fc34e0e4cef296a03f3900d537be3737712294a58f7bf91e5e430071887c92c18b6             1145 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQR+gnp+Of/kt8aogSk654Rn9pdN/QUCawNpgQAKCRA654Rn9pdN
+/S0vAP9b6GGP5ta//Dagm5PwEQkiPzsgl071GUqFSTp/ELP3cgEA3fHKKgyNrGuR
+fSgJ5YgJKxL/gEtiE+0CyqZ0G5MwRQo=
+=+xIE
+-----END PGP SIGNATURE-----
