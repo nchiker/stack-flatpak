@@ -1,19 +1,19 @@
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Sun, 22 Nov 2026 22:30:25 +0000
+Date: Sun, 22 Nov 2026 23:02:42 +0000
 Label: Stack
 Origin: Stack
 Suite: stable
 MD5Sum:
- 394990fc6282de21606d620a89e9d116             3468 main/binary-amd64/Packages
- a04ec7fb9e6a648b5b50f210a0dc4358             1354 main/binary-amd64/Packages.gz
+ 64347e8c1b9c19193eee285d0f8c972e             4864 main/binary-amd64/Packages
+ 3d729f69b3bb4ce6a02e6ab07353e377             1558 main/binary-amd64/Packages.gz
 SHA1:
- 5e880c51df6bedebdd0e817a115391a1e8bf3877             3468 main/binary-amd64/Packages
- 223911d530bf78485dfd1ea2c4d92d8a98c8e183             1354 main/binary-amd64/Packages.gz
+ 87c6beea82445b0fef91ed7f8aa4682903ebd2da             4864 main/binary-amd64/Packages
+ e22380b9c238981fa237c1b29fde7f9b8a031dfa             1558 main/binary-amd64/Packages.gz
 SHA256:
- 5955274f86af20357aa95eae2f7a484862face6efaea0b4d8cc80bf89d43c89d             3468 main/binary-amd64/Packages
- 46b08b38042059c2e09cfe50f75feae66cb9f704d82cfb2b9b3bc1e7342cdfb7             1354 main/binary-amd64/Packages.gz
+ 965703a8419bcd8f1548446a3a9c7dc8f44db6b1c47acc08b903ea18479e2c6b             4864 main/binary-amd64/Packages
+ 3fa44a79746c809b87ed4f481be0dd67dd9bae6e710ce294677112634781b024             1558 main/binary-amd64/Packages.gz
 SHA512:
- d3e934a52ab536ef294496329f4dd6ca0eba46de4373b4b5e9abedce07c69f702a99f432e40e5d0f47957911a6a393defae869c7a3ad84b590843b0809fcc9a3             3468 main/binary-amd64/Packages
- 4bd8f1f0edfacc8ea4de2ea9a3a94d7923f9c4474af9fcd839186e5ce3d0044eae80f129123271837ec29bb6a09687540d7ab39f0f4604488de2c72a11b20d15             1354 main/binary-amd64/Packages.gz
+ ebc2126c7aa6b83c4bfdc5a216fff01184296e7a3afcc35dcf7d0ac40fd1cad4d453cf688dd8256827dd1f0df5a44bc5f210e576eb9592cccb967c476c651d11             4864 main/binary-amd64/Packages
+ f540e441f246739256dd3cc4ec739c3b547322367adfdc64a9c4847985876429923005e02d12afa2facf85e2af09cc656a22ee938af1bb3cce9c84b94a2c02b7             1558 main/binary-amd64/Packages.gz
