@@ -16,27 +16,6 @@ Description: Stack apt repository and signing key
 
 Package: stack-docs
 Architecture: amd64
-Version: 0.6.1
-Priority: optional
-Section: utils
-Maintainer: Stack contributors <https://github.com/nchiker/stack>
-Installed-Size: 114367
-Depends: libarchive13t64 (>= 3.0.4), libc6 (>= 2.39), libcurl4t64 (>= 7.16.2), libgcc-s1 (>= 4.2), libgif7 (>= 5.1), libgomp1 (>= 4.9), libjpeg8 (>= 8c), liblept5, libopenjp2-7 (>= 2.0.0), libpng16-16t64 (>= 1.6.2), libstdc++6 (>= 13.1), libtiff6 (>= 4.0.3), libwebp7 (>= 1.3.2), libwebpmux3 (>= 1.3.2), libxkbcommon0 (>= 0.5.0), zlib1g (>= 1:1.1.4), libwayland-client0, libegl1, libvulkan1, libx11-6, libx11-xcb1
-Recommends: xdg-desktop-portal, xdg-desktop-portal-cosmic | xdg-desktop-portal-gtk, gnome-keyring | libsecret-1-0
-Filename: pool/main/stack-docs_0.6.1_amd64.deb
-Size: 26946624
-MD5sum: e54db6bac385443e1522937ca52faa7b
-SHA1: 29b59db285dbbab34e132dad0be3eab276813bc9
-SHA256: 39b4e75de77635e5544ece4b9485d827002965c1eed26317df68984b9a50341c
-SHA512: 17f25edd848bd19a5cee00165ccf8612480990e57e4cd2dc08e921f3b145cdcbbbe53b78658344faab51ceccd92da643213799255774a13543960c98a3624025
-Homepage: https://github.com/nchiker/stack
-Description: Stack document library for the COSMIC desktop
- Import documents, organize them into stacks, search printed English text
- offline and keep saved changes in sync with an approved nearby Android phone.
- PDF preview and offline text reading are bundled; nothing is downloaded.
-
-Package: stack-docs
-Architecture: amd64
 Version: 0.6.2
 Priority: optional
 Section: utils
@@ -71,6 +50,27 @@ MD5sum: 38166cc63b53f6e5e5d453d41dfcbf1e
 SHA1: 965080b0277db99d15b39d8241b024053f25df92
 SHA256: 289bca361d43f0acb8b70a40412fc6a5afafee31832666e4bc50a6691e02315b
 SHA512: 67ec2e54c167a21291e2a55e499641398e185b21a2371612d9cc434c79f80df99adc2f3dc305be532d65ea203e6f09f0db24bca6b699d3eab47eaf021fd3cf1f
+Homepage: https://github.com/nchiker/stack
+Description: Stack document library for the COSMIC desktop
+ Import documents, organize them into stacks, search printed English text
+ offline and keep saved changes in sync with an approved nearby Android phone.
+ PDF preview and offline text reading are bundled; nothing is downloaded.
+
+Package: stack-docs
+Architecture: amd64
+Version: 0.7.1
+Priority: optional
+Section: utils
+Maintainer: Stack contributors <https://github.com/nchiker/stack>
+Installed-Size: 116745
+Depends: libarchive13t64 (>= 3.0.4), libc6 (>= 2.39), libcurl4t64 (>= 7.16.2), libgcc-s1 (>= 4.2), libgif7 (>= 5.1), libgomp1 (>= 4.9), libjpeg8 (>= 8c), liblept5, libopenjp2-7 (>= 2.0.0), libpng16-16t64 (>= 1.6.2), libstdc++6 (>= 13.1), libtiff6 (>= 4.0.3), libwebp7 (>= 1.3.2), libwebpmux3 (>= 1.3.2), libxkbcommon0 (>= 0.5.0), zlib1g (>= 1:1.1.4), libwayland-client0, libegl1, libvulkan1, libx11-6, libx11-xcb1
+Recommends: xdg-desktop-portal, xdg-desktop-portal-cosmic | xdg-desktop-portal-gtk, gnome-keyring | libsecret-1-0
+Filename: pool/main/stack-docs_0.7.1_amd64.deb
+Size: 27466316
+MD5sum: ffc64a43dbad239f0f60832b281cd22c
+SHA1: e4e8b8910a16cef86b84646e18555ab20841353e
+SHA256: 4aa4c33848fbd4bb9cd477753dcac1afceb384b3ba5f930405d42ce071eb6067
+SHA512: 4c886b1d582c17a9fe1075bff9a3876b1c45040089c647a368b492cf6969028c98de4bd7e922b1190d40a8f23c36d9a50cce252580ea2351df98d78d2871aa52
 Homepage: https://github.com/nchiker/stack
 Description: Stack document library for the COSMIC desktop
  Import documents, organize them into stacks, search printed English text

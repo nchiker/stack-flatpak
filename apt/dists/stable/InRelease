@@ -4,26 +4,26 @@ Hash: SHA512
 Architectures: amd64
 Codename: stable
 Components: main
-Date: Mon, 23 Nov 2026 01:17:50 +0000
+Date: Mon, 23 Nov 2026 17:26:29 +0000
 Label: Stack
 Origin: Stack
 Suite: stable
 MD5Sum:
- 152dde9683f8c9b8f0eae77fb589c3dc             4864 main/binary-amd64/Packages
- ebbec45fda6e4b19f83df43f83943d19             1568 main/binary-amd64/Packages.gz
+ f3219b59efdb462213a967f0521c2897             4864 main/binary-amd64/Packages
+ 900b067282187dd60a62946cfbf9eef1             1570 main/binary-amd64/Packages.gz
 SHA1:
- fcb2aa0e44fd8ef03e9d58de1a64388d28bfc16d             4864 main/binary-amd64/Packages
- 4420a68c4e2da3e02525221538951ca300d7958b             1568 main/binary-amd64/Packages.gz
+ fe3925470d199b09b561ab082bc09f52f47dd27d             4864 main/binary-amd64/Packages
+ b5be33584ab6272ac224de3efe46683a1446f52f             1570 main/binary-amd64/Packages.gz
 SHA256:
- 37b5bd2ba90188c51e6b0f4d613e51dd314a385adddbe86dc3cd1839b3f83dd0             4864 main/binary-amd64/Packages
- 4ec37062a60634972256954d964a806ba346259d0e9ae906728391c4744ab991             1568 main/binary-amd64/Packages.gz
+ 893b42ae1522cb9e57d6560f12b3bdd8ae9d21390044e9d74990d4e7c75064f3             4864 main/binary-amd64/Packages
+ c635e0e913fbe3926623e89d43f73c2cc50d525aa95ca75239d5478fe386a383             1570 main/binary-amd64/Packages.gz
 SHA512:
- d5760098a0dc79b4d24014df6dc7a4caa40125b155b86fbde85b8b6394da3c655c58e9063b2b907463beb3114ece5a9a02d9025fb4d2f8c66d86838ccdd1e31e             4864 main/binary-amd64/Packages
- 025c5752fd6e5b83f1123566708c828cb5100a2fb6c76fb6459cbe1e163fb1e4809247e98e2f455849452d763387a9769736ce6e08e05aba3ef941093cab616d             1568 main/binary-amd64/Packages.gz
+ 0a1764d046b7d3c17df29fe4d06895eace81a27bb7f7bcbc74cc74465b6145fe6886a7384afab3e297d818baf8b48a075fb6f1d5991311e2b4708b34779ed8b5             4864 main/binary-amd64/Packages
+ ef83079b9c293d54d48694684060921ed477a15d42dc90eb09468f3baff3cbf42569b2147a44875073803740a60d20a30689f45708fb10229ded2bcd79360c51             1570 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQR+gnp+Of/kt8aogSk654Rn9pdN/QUCawOUPgAKCRA654Rn9pdN
-/UejAQDdX2fUwFrYnDtVMP47YIEHS76g38l/I3GdFS0nEQzA0wEAjlkySxgLPA89
-ekDdKcl361CfkGe6Yf3KzoIHiAX88Ao=
-=cTA+
+iHUEARYKAB0WIQR+gnp+Of/kt8aogSk654Rn9pdN/QUCawR3RQAKCRA654Rn9pdN
+/ZWhAP99eN3SKJTfcd+XJPrpFiz47BNyEoiqnxNy4CVLXgzw+wD/UkcHnJuPcUCV
+f9gCUL0Z7LfmqzHRx2Pua938glzQQQQ=
+=UOcK
 -----END PGP SIGNATURE-----
